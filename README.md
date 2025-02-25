@@ -23,7 +23,9 @@ npm install
 ```
 
 ## Usage
-[Add usage instructions here]
+- Configure to your specific drone (designed to be used with the Copilot Series)
+- Set up website using provided instructions and connect drone
+- Fly!
 
 ## License
 [MIT License](LICENSE)

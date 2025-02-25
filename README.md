@@ -1,4 +1,5 @@
 # iFly
+![image](https://github.com/user-attachments/assets/637acb4f-9db9-4960-a2a2-bd0fa02d7d23)
 
 ## Description
 iFly is a flight management application designed to streamline aviation-related tasks and operations.

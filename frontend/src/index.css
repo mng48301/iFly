@@ -1,0 +1,27 @@
+:root {
+  --primary: #00a8ff;
+  --secondary: #192a56;
+  --background: #1a1a2e;
+  --surface: #242444;
+  --text: #ffffff;
+  --danger: #e84118;
+  --success: #4cd137;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background-color: var(--background);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+  padding: 20px;
+}
